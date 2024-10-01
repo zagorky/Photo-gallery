@@ -18,7 +18,7 @@ A responsive photo gallery built for displaying images with smooth transitions a
 
 ## Deployment
 
-[Live Demo](https://zagorky.github.io/Photo-gallery/)
+[Live Demo](https://zagorky.github.io/Photo-gallery/photo-gallery)
 
 ## Local Setup
 
